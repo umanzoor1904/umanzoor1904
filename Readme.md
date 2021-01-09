@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usman Manzoor.</h1>
 <h3 align="center">A passionate software/full stack developer.</h3>
 
-- 🔭 I’m currently working on **COVID-19 Tracker**
+- 🔭 I’m currently working on **COVID-19 Tracker with ReactJS**
 
 - 🌱 I’m currently learning **Django, MongoDB, React Native**
 
