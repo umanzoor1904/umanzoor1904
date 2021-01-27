@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Usman Manzoor.</h1>
 <h3 align="center">A passionate software/full stack developer.</h3>
 
-- 🔭 I’m currently working on a **portfolio website**
+- 🔭 I’m currently working on a **bug tracker**
 
-- 🌱 I’m currently learning **Gatsby JS**
+- 🌱 I’m currently learning **a bit of everything really**
 
 - 📫 How to reach me **umanzoor1904@gmail.com**
 
