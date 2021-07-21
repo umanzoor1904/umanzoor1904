@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a freelancer
 
-- 🌱 I’m currently learning gatsbyjs, graphql, framer-motion
+- 🌱 I’m currently learning threejs, graphql, sass
 
 - 📫 How to reach me **umanzoor1904@gmail.com**
 
